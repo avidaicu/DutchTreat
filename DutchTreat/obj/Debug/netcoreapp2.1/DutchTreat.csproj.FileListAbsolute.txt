@@ -1,0 +1,14 @@
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
+c:\users\avidaicu\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
